@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD4E22B-1C28-4C9B-8A43-E3AEE616372B}|ApiTests\\ApiTests.csproj|c:\\users\\red\\documents\\c2_dev\\demoframework\\apitests\\apitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD4E22B-1C28-4C9B-8A43-E3AEE616372B}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\apitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEA0E3E-AAA1-48C2-A5ED-221B2CA09847}|ApiModels\\ApiModels.csproj|c:\\users\\red\\documents\\c2_dev\\demoframework\\apimodels\\requests\\starthttplistenerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEA0E3E-AAA1-48C2-A5ED-221B2CA09847}|ApiModels\\ApiModels.csproj|solutionrelative:apimodels\\requests\\starthttplistenerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380441C9-6C3A-4A2E-975A-5A15BB339545}|TeamServer\\TeamServer.csproj|c:\\users\\red\\documents\\c2_dev\\demoframework\\teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380441C9-6C3A-4A2E-975A-5A15BB339545}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD4E22B-1C28-4C9B-8A43-E3AEE616372B}|ApiTests\\ApiTests.csproj|c:\\users\\red\\documents\\c2_dev\\demoframework\\apitests\\listenerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD4E22B-1C28-4C9B-8A43-E3AEE616372B}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\listenerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartHttpListenerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiModels\\Requests\\StartHttpListenerRequest.cs",
+              "RelativeDocumentMoniker": "ApiModels\\Requests\\StartHttpListenerRequest.cs",
+              "ToolTip": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiModels\\Requests\\StartHttpListenerRequest.cs",
+              "RelativeToolTip": "ApiModels\\Requests\\StartHttpListenerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:35:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiTest.cs",
+              "DocumentMoniker": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiTests\\ApiTest.cs",
+              "RelativeDocumentMoniker": "ApiTests\\ApiTest.cs",
+              "ToolTip": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiTests\\ApiTest.cs",
+              "RelativeToolTip": "ApiTests\\ApiTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:28:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeToolTip": "TeamServer\\Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:02:04.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListenerApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiTests\\ListenerApiTests.cs",
+              "RelativeDocumentMoniker": "ApiTests\\ListenerApiTests.cs",
+              "ToolTip": "C:\\Users\\Red\\Documents\\C2_DEV\\DemoFramework\\ApiTests\\ListenerApiTests.cs",
+              "RelativeToolTip": "ApiTests\\ListenerApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:24:54.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

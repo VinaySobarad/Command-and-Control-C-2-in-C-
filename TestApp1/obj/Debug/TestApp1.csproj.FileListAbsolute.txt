@@ -1,0 +1,7 @@
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\bin\Debug\TestApp1.exe.config
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\bin\Debug\TestApp1.exe
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\bin\Debug\TestApp1.pdb
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\obj\Debug\TestApp1.csproj.AssemblyReference.cache
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\obj\Debug\TestApp1.exe
+C:\Users\Red\Documents\C2_DEV\DemoFramework\TestApp1\obj\Debug\TestApp1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\bin\Debug\net8.0\ApiModels.deps.json
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\bin\Debug\net8.0\ApiModels.dll
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\bin\Debug\net8.0\ApiModels.pdb
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.AssemblyInfo.cs
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.dll
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\refint\ApiModels.dll
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ApiModels.pdb
+C:\Users\Red\Documents\C2_DEV\DemoFramework\ApiModels\obj\Debug\net8.0\ref\ApiModels.dll
